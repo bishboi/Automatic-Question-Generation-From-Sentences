@@ -1,5 +1,3 @@
-﻿Roll no. 2018114010 & 201811007
-
 Installation
 run :-
   bash installation/install.sh

@@ -1,4 +1,4 @@
-# Question-generation-From-Fables
+# Rule-Based-WhQuestion-generation
 Automated Question generation system using general replacement rules
 # Installation
 run :-<br/>
